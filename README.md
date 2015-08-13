@@ -8,12 +8,14 @@ For installation instructions, see INSTALL.md
 
 Development thread located at: http://aegidian.org/bb/viewtopic.php?f=4&t=17437
 
+Git repository: https://github.com/rotaryphone111/Oolite-Hyperspace-Hangar
+
 Maintainer contact information:
 Name: Kenji Takashima. Email: knjtkshm@gmail.com
 Changelog:
 --------------------------------------------------------------------------------
-- Version 1.14.5: Thu Aug 13 13:07:18 PDT 2015 - Added INSTALL.md and .gitignore, 
-Renamed LICENSE.txt and README.txt to .md files. Added git repo functionality.
+- Version 1.14.5: Thu Aug 13 13:07:18 PDT 2015 - Added INSTALL.md, 
+Renamed LICENSE.txt and README.txt to .md files. Added git repo to github.
 - Version 1.14.4: Mon Aug 10 15:48:16 PDT 2015 - Removed test message that was left in by
 accident.
 - Version 1.14.3: Mon Aug 10 15:21:34 PDT 2015 - Fixed incorrect ship pricing, which was causing
