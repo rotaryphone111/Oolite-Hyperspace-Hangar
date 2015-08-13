@@ -1,10 +1,16 @@
+#Oolite-Hyperspace-Hangar
 Written by Ramen, with credit to Capt. Murphy and Norby, and Norby again, for
 providing a fix for the one-ship-type-only bug, and lots more Norby.
 Credit goes to Kheng for providing the hangar image.
 (http://kheng.deviantart.com)
 
+For installation instructions, see INSTALL.md
+
 Changelog:
 --------------------------------------------------------------------------------
+			      --Version 1.14.5--
+- Thu Aug 13 13:07:18 PDT 2015 - Added INSTALL.md and .gitignore, Renamed LICENSE.txt and 
+README.txt to .md files. Added git repo functionality.
 			      --Version 1.14.4--
 - Mon Aug 10 15:48:16 PDT 2015 - Removed test message that was left in by
 accident.
