@@ -5,7 +5,10 @@ Credit goes to Kheng for providing the hangar image.
 (http://kheng.deviantart.com)
 
 For installation instructions, see INSTALL.md
+Development thread located at: http://aegidian.org/bb/viewtopic.php?f=4&t=17437
 
+Maintainer contact information:
+Name: Kenji Takashima. Email: knjtkshm@gmail.com
 Changelog:
 --------------------------------------------------------------------------------
 - Version 1.14.5: Thu Aug 13 13:07:18 PDT 2015 - Added INSTALL.md and .gitignore, 
