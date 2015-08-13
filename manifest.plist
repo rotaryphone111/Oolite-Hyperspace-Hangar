@@ -1,0 +1,23 @@
+{
+	"identifier" = "oolite.oxp.Ramen.Hyperspace_Hangar";
+	"required_oolite_version" = "1.81";
+	"title" = "Hyperspace Hangar";
+	"version" = "1.14.4";
+	"category" = "Mechanics";
+	"description" = "Invented by a small time noodle shop owner, it allows storage of ships in the Hyperspace Hangar service.
+OXPConfig recommended.
+";
+	"download_url" = "http://wiki.alioth.net/img_auth.php/0/04/Hyperspace_Hangar_1.14.4.oxz";
+	"author" = "Ramen";
+	"file_size" = "3550232";
+	"information_url" = "http://wiki.alioth.net/index.php/Hyperspace_Hangar";
+	"license" = "CC-BY-NC-SA 3.0";
+	"upload_date" = "2015-08-11 00:50:16";
+	"requires_oxps" = (
+		{
+			"identifier" = "oolite.oxp.CaptMurphy.ShipStorageHelper";
+			"description" = "Ship Storage Helper";
+		}
+	);
+}
+

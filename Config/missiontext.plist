@@ -1,0 +1,75 @@
+{
+	"hyperSpace_choices" =
+		{
+		"GARAGE_1_SWITCH" = "Switch ships.";
+		"GARAGE_2_SELL" = "Sell your ships.";
+		"GARAGE_3_TRANSFER" = "Transfer ships.";
+		"GARAGE_4_OPTIONS" = "Options.";
+		"GARAGE_5_INFO" = "Information.";
+		"GARAGE_6_EXIT" = "Exit.";
+		};
+	"hyperSpace_nooptions" =
+		{
+		"GARAGE_1_SWITCH" = "Switch ships.";
+		"GARAGE_2_SELL" = "Sell your ships.";
+		"GARAGE_3_TRANSFER" = "Transfer ships.";
+		"GARAGE_5_INFO" = "Information.";
+		"GARAGE_6_EXIT" = "Exit.";
+		};
+	"hyperSpace_sellChoices" =
+		{
+		"1_SELLCURRENT" = "Sell your current ship, then switch.";
+		"2_SELLSTORED" = "Sell a stored ship.";
+		"3_EXIT" = "Exit.";
+		};
+	"hyperSpace_transferChoices" =
+		{
+		"1_SEND" = "Send a ship to another system.";
+		"2_ORDER" =
+		"Request a ship to be sent to your current location.";
+		"3_EXIT" = "Exit.";
+		};		
+	"hyperSpace_notstored" =
+		{
+		"1_OPTIONS" = "Options.";
+		"2_INFO" = "Information.";
+		"3_EXIT" = "Exit.";
+		};
+	"hyperSpace_askstore" =
+		{
+		"1_STORE" = "Store";
+		"2_EXIT" = "Exit.";
+		};
+	"hyperSpace_options" =
+		{
+		"1_PRICE" = "Change storage fee.";
+		"2_TIME" = "Change storage time.";
+		"3_RESET" = "Reset to defaults.";
+		"4_PURGE" = "Remove ships without refund.";
+		"5_EXIT" = "Exit.";
+		};
+	"hyperSpace_confirm" =
+		{
+		"1_YES" = "Yes.";
+		"2_NO" = "No.";
+		};
+	"hyperSpace_QAD_nextPage" =
+		{
+		"1_NEXT" = "Next page.";
+		};
+		
+	"hyperSpace_QAD" = "STATION DATA ENTRY NO. 28303.\n
+NAME: Norby-Ramen Quirium Accuracy Drive\n
+DETAILS: The Q.A.D works by chaining together what amounts to faster witchspace jumps from station to station, using accuracy drives, which make the jumps incredibly accurate, but also require station-level generators and capacitors. Which is why this wonderful piece of equipment is not available on ships. Because stations carry a large amount of fuel, this is viable. However, an incredibly large amount of fuel is required, thus the high fee to use the Norby-Ramen Quirium Accuracy Drive, or colloquially, the Hyperspace Hangar. It is worth noting that only the drive is actually required. There is no actual difference between the station hangar and the Hyperspace Hangar. However, only a station with publicly availible fuel supplies and a shipyard will mount a Q.A.D, for obvious reasons. If using a TL 6 or lower Q.A.D., be aware that these are unlicensed. They are not illegal, but have high chance of damaging your ship, about 7/8. The hangar service is monitored by Norby-Ramen Equipment Industries, in partnership with Lone Wolf industries.\n\nINFORMATION PAST THIS POINT REQUIRES AUTHORIZATION FOR THE LOCAL GALCOP AUTORITIES. ACCESS WILL BE DENIED UNTIL AUTHORIZED.";
+
+	 "hyperSpace_QAD_authorized" = "STATION DATA ENTRY NO. 28303.\n
+NAME: Norby-Ramen Quirium Accuracy Drive\n
+DETAILS: The Q.A.D works by chaining together what amounts to faster witchspace jumps from station to station, using accuracy drives, which make the jumps incredibly accurate, but also require station-level generators and capacitors. Which is why this wonderful piece of equipment is not available on ships. Because stations carry a large amount of fuel, this is viable. However, an incredibly large amount of fuel is required, thus the high fee to use the Norby-Ramen Quirium Accuracy Drive, or colloquially, the Hyperspace Hangar. It is worth noting that only the drive is actually required. There is no actual difference between the station hangar and the Hyperspace Hangar. However, only a station with publicly availible fuel supplies and a shipyard will mount a Q.A.D, for obvious reasons. If using a TL 6 or lower Q.A.D., be aware that these are unlicensed. They are not illegal, and used to have a 7/8 chance of damagin the user's ship. However, due to the efforts of Commander [commander_name] in [mission_hyperSpaceTimeCompleted], they are now safe to use.";
+
+	"hyperSpace_QAD_authorized2" = "The hangar service is monitored by Norby-Ramen Equipment Industries, in partnership with Lone Wolf industries. The Quirium Accuracy Drive was initially developed by an employee working at a ramen stand in the Lezaer system of Galaxy 2. The corporation has since moved to Galaxy 6, though it maintains branches in all GalCop regions. Many are intially surprised to learn that the drive is the result of original work, and has nothing to do with the Thargoids or their technology. The Ramen Corporation is currently working with GalCop scientists to develop a version that is small and efficient enough to fit on a military ship, in order to combat the Thargoids. While there has been significant progress in this research, the Ramen Corporation has no plans for a commercial version at this time, due to the extensive ship requirements needed to use the drive.";
+	
+	"hyperSpace_missionBegin" = "Good day. The Ramen Corporation has selected you for a special mission. Please deliver these documents to Diesanen in G6. The delivery is not time sensitive per se, but we would prefer you to do it sooner rather than later. When you deliver them, you will, of course, recieve a reasonably generous compensation. See you there, Commander [commander_name].";
+	
+	"hyperSpace_missionEnd" = "Good job delivering the documents Commander [commander_name]. With this, the Qurium Accuracy Drive system will be safe even for unlicensed units. We will also see to it that you receive a suitable reward.";
+	"hyperSpace_missionReward" = "The Ramen Corporation is proud to present you with the first Hangar Discount ID. From now on, you will receive a 50%% discount on all your hangar-related transactions. You will also be given authorization to read restricted infromation on the Norby-Ramen Quirium Accuracy Drive database entry. Thanks, and good day to you, Commander.";
+}
