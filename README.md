@@ -5,6 +5,7 @@ Credit goes to Kheng for providing the hangar image.
 (http://kheng.deviantart.com)
 
 For installation instructions, see INSTALL.md
+
 Development thread located at: http://aegidian.org/bb/viewtopic.php?f=4&t=17437
 
 Maintainer contact information:
