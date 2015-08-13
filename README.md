@@ -8,9 +8,8 @@ For installation instructions, see INSTALL.md
 
 Changelog:
 --------------------------------------------------------------------------------
-			      --Version 1.14.5--
-Thu Aug 13 13:07:18 PDT 2015 - Added INSTALL.md and .gitignore, Renamed LICENSE.txt and 
-README.txt to .md files. Added git repo functionality.
+Version 1.14.5: Thu Aug 13 13:07:18 PDT 2015 - Added INSTALL.md and .gitignore, 
+Renamed LICENSE.txt and README.txt to .md files. Added git repo functionality.
 			      --Version 1.14.4--
 - Mon Aug 10 15:48:16 PDT 2015 - Removed test message that was left in by
 accident.
