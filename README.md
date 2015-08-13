@@ -19,7 +19,8 @@ internet yet.)
 - Version 1.14.2: Fri Jul  3 12:58:53 PDT 2015 - I moved to California, so dates will now be in
 PDT. I am also updating the changelog format to include version numbers from
 this point forward.
-- Older Versions:
+Older Versions:
+-------------------------------------------------------------------------------
 - Tue Jun 16 23:28:02 EDT 2015 - Reinstated switch damage, due to annoying
 implementation bugs. Added short range chart functionality if target world is
 less than or equal to 7.0 LY away. Added intergalactic ordering.
