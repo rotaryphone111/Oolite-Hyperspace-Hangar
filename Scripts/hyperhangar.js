@@ -907,7 +907,10 @@ this.$choice_confirm_transfer_send = function(choice)
     {
 	this._oldShips = JSON.parse(this._shipsStored[this._oldChoice]);
 	//subtract money
-	player.credits = player.credits - (System.infoForSystem(this._oldShips[0][0], this._oldShips[0][1]).routeToSystem(System.infoForSystem(galaxyNumber, player.ship.targetSystem, player.ship.routeMode)).distance * 90);
+	player.credits = player.credits - (System.infoForSystem(this._oldShips[0][0], 
+				this._oldShips[0][1]).routeToSystem(System.infoForSystem(galaxyNumber, 
+								    player.ship.targetSystem, 
+								    player.ship.routeMode)).distance * 90);
 	//change values
 	this._oldShips[0][0] = galaxyNumber;
 	this._oldShips[0][1] = player.ship.targetSystem;
@@ -928,9 +931,13 @@ this.$choice_confirm_transfer_order = function(choice)
     {
 	this._oldShips = JSON.parse(this._shipsStored[this._oldChoice]);
 	//subtract money
-	player.credits = player.credits - system.info.routeToSystem(System.infoForSystem(this._oldShips[0][0], this._oldShips[0][1], player.ship.routeMode)).distance * 90;
+	player.credits = player.credits - system.info.routeToSystem(System.infoForSystem(this._oldShips[0][0], 
+											this._oldShips[0][1], 
+											player.ship.routeMode)).distance * 90;
 	//add time
-	clock.addSeconds(system.info.routeToSystem(System.infoForSystem(this._oldShips[0][0], this._oldShips[0][1]), player.ship.routeMode).time * 3600);
+	clock.addSeconds(system.info.routeToSystem(System.infoForSystem(this._oldShips[0][0], 
+									this._oldShips[0][1]), 
+									player.ship.routeMode).time * 3600);
 	//give feedback
 	player.consoleMessage("Got " + this._oldShips[0][3] + " from " +
 			      System.infoForSystem(this._oldShips[0][0],
